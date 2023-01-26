@@ -4,7 +4,7 @@ Spinny e robotelul nostru care ne-a dat multe batai de cap dar in final a reusit
 Picture of Spinny:
 ![WhatsApp Image 2023-01-14 at 21 43 32](https://user-images.githubusercontent.com/79654042/212545836-647f4127-e28b-4912-9614-27b028bf1a39.jpeg)
 
-[Code](https://github.com/alinavoiculescu/spinny-line-follower/blob/main/Spinny%20-%20Line%20Follower/Spinny%20-%20Line%20Follower.ino)
+[Code](https://github.com/ZahariaDiana132/Spinny---line-follower-robot/blob/e0922aaafdcc5c5d8c617a033864a98fdfb85d5b/spinny.ino)
 
 [Video](https://youtube.com/shorts/g_GSiB_Ehbk?feature=share)
 
